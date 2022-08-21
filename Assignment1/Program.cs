@@ -10,6 +10,10 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("kgjj");
+
+            Console.WriteLine("dasbmsbam");
+            Console.ReadLine();
         }
     }
 }
