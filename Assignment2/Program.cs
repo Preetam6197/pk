@@ -11,6 +11,8 @@ namespace Assignment2
         static void Main(string[] args)
         {
             Console.WriteLine("kgjj");
+
+            Console.WriteLine("dasbmsbam");
             Console.ReadLine();
         }
     }
